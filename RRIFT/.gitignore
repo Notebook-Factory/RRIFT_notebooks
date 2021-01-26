@@ -19,5 +19,6 @@ $RECYCLE.BIN/
 
 *.asv
 *.Rhistory
+data/*
 !data/TCGA-GBM-Masks
 !data/TCGA-GBM-Results
