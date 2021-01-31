@@ -19,9 +19,21 @@ You can download MATLAB from [here](https://uk.mathworks.com/downloads/).
 * ```conda create -n rrift_notebook python=3.6``` (you can set ```rrift_notebook``` to whatever you want the name of your environment to be)
 * ```conda activate rrift_notebook```
 
-## Installing the Matlab kernel for Jupyter
+## Installing the MATLAB kernel for Jupyter
 
 * ```pip install matlab_kernel```
+
+To check if the kernel is properly installed use the command ```jupyter kernelspec list``` which should list both MATLAB and Python if installed correctly.
+
+## MATLAB-side configuration 
+
+The MATLAB executable needs to be exposed to Jypiter.
+You need to go to the directory where MATLAB is installed and navigate inside `extern/engines/python`. 
+For example, the path should look something like this on Windows: `M:\MATLAB\extern\engines\python` or on Linux: `/usr/local/MATLAB/R2020b/extern/engines/python`. 
+
+Once you've navigated to that location you need to install the Python engine with the command:
+
+* ```python setup.py install```
 
 ## Setting up SoS and MATLAB 
 
