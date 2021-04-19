@@ -8,7 +8,7 @@ Note: MATLAB. Reproduces ALL figures
 
 ## Prerequisites
 
-Make sure before running the notebook you download ```simResults.mat``` and ```simMap.mat``` from the [OSF repository](https://osf.io/wr3kf/files/) and place them inside ```./RRIFT/data/```. Also make sure you have [```Anaconda 3```](https://www.anaconda.com/products/individual) installed on your system as well as ```MATLAB R2020b```.
+Make sure before running the notebook you download ```simResults.mat```, ```simResultsTRes15-varKtRR.mat```, ```simResultsTRes15-varVeRR.mat``` and ```simMap.mat``` from the [OSF repository](https://osf.io/wr3kf/files/) and place them inside ```./RRIFT/data/```. Also make sure you have [```Anaconda 3```](https://www.anaconda.com/products/individual) installed on your system as well as ```MATLAB R2020b```.
 
 ## Installing MATLAB
 
