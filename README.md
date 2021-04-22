@@ -1,6 +1,8 @@
 
 # RRIFT_notebooks
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Notebook-Factory/RRIFT_notebooks/HEAD?filepath=RRIFT.ipynb)
+
 Paper: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27913 <br> 
 Code: https://github.com/MPUmri/RRIFT <br> 
 Note: MATLAB. Reproduces ALL figures
@@ -44,7 +46,7 @@ Once you've navigated to that location you need to install the Python engine wit
 
 ## Installing Python packages
 
-* ```pip install plotly=4.14.3 numpy=1.19.5 scipy=1.6.0 statsmodels=1.6.0 pandas=1.2.0```
+* ```pip install plotly=4.14.3 numpy=1.19.5 scipy=1.6.0 statsmodels=0.12.1 pandas=1.2.0```
 
 ## Start a Jupyter session
 
