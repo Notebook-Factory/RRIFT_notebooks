@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Notebook-Factory/RRIFT_notebooks/main?filepath=RRIFT.ipynb)
 # RRIFT_notebooks
 
 Paper: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27913 <br> 
