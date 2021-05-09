@@ -3,6 +3,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Notebook-Factory/RRIFT_notebooks/HEAD?filepath=RRIFT.ipynb)
 
+Link to interactive jupyter book: https://notebook-factory.github.io/RRIFT_page/RRIFT.html
+
 Paper: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27913 <br> 
 Code: https://github.com/MPUmri/RRIFT <br> 
 Note: MATLAB. Reproduces ALL figures
